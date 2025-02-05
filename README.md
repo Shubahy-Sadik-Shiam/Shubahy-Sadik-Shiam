@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/N6JB5q1V/DALL-E-2025-02-05-14-53-50-A-sleek-and-modern-digital-banner-featuring-the-technologies-HTML-React-T.webp"  />
+  <img height="200" src="https://i.ibb.co.com/N6JB5q1V/DALL-E-2025-02-05-14-53-50-A-sleek-and-modern-digital-banner-featuring-the-technologies-HTML-React-T.webp"  />
 </div>
 
 ###
